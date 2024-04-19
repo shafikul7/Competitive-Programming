@@ -15,6 +15,7 @@ int main()
     {
         cout << "Enter Number " << i + 1 << " : ";
         cin >> arr[i];
+        //cin >> arr[i];
     }
 
     for (i = 1; i < num; ++i)
